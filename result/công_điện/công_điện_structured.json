@@ -1,0 +1,47 @@
+[
+  {
+    "ThongTinVanBan": {
+      "ten_file": "Công điện-100-CĐ-TTg.pdf",
+      "loai_van_ban": "Công điện",
+      "so_trang": 1,
+      "so_ky_tu": 148,
+      "duong_dan": "pdf_files\\Công điện\\Công điện-100-CĐ-TTg.pdf",
+      "co_quan_ban_hanh": "CHÍNH PHỦ"
+    },
+    "VanBanCanCu": [],
+    "CacDieu": [],
+    "CacChuong": [],
+    "NoiDungChinh": [],
+    "DeNghi": [],
+    "YeuCauPhapHop": []
+  },
+  {
+    "ThongTinVanBan": {
+      "ten_file": "Công điện-103-CĐ-TTg.pdf",
+      "loai_van_ban": "Công điện",
+      "so_trang": 4,
+      "so_ky_tu": 10164,
+      "duong_dan": "pdf_files\\Công điện\\Công điện-103-CĐ-TTg.pdf",
+      "co_quan_ban_hanh": "CHÍNH PHỦ",
+      "so_van_ban": "02-",
+      "ngay_ban_hanh": "30/06/2025"
+    },
+    "VanBanCanCu": [],
+    "CacDieu": [],
+    "CacChuong": [],
+    "NoiDungChinh": [
+      "06. Để kịp thời khắc phục các tồn tại, hạn chế nêu trên, Thủ tướng Chính phủ yêu cầu Bộ trưởng các bộ, Thủ trưởng các cơ quan ngang bộ, cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương tập trung và kịp thời chỉ đạo triển khai đồng bộ, hiệu quả các nhiệm vụ, giải pháp sau:",
+      "4. Về nguồn lực a) Bộ Tài chính chủ trì, phối hợp với Bộ Công an, Bộ Khoa học và Công nghệ và các bộ, ngành, địa phương có liên quan bảo đảm bố trí đủ nguồn lực tài chính để đầu tư, nâng cấp các cơ sở dữ liệu quoc gia, cơ sở dữ liệu chuyên ngành, hạ ting số, dữ liệu số. b) Bộ Nội vụ chủ trì, phối hợp với Bộ Công an, Bộ Khoa học và Công nghệ và các bộ, ngành, địa phương có liên quan rà soát, đánh giá thực trạng đội ngũ cán bộ công chức, viên chức làm công nghệ thông tin, chuyển đổi số; có phương án tuyển dụng, đào tạo, bồi dưỡng hoặc thuê chuyên gia, nhân sự công nghệ theo hình thức phù hợp với đặc thù của từng ngành, lĩnh vực, địa phương. c) Uy ban nhân dân các tinh, thành phố trực thuộc Trung ương chịu trách nhiệm bố trí ngân sách địa phương và huy động các nguồn lực hợp pháp khác dé triển khai đầy đủ các nhiệm vụ được giao tại Công điện này."
+    ],
+    "DeNghi": [
+      "các Đồng chí Bộ trưởng các bộ, Thủ trưởng"
+    ],
+    "YeuCauPhapHop": [
+      "với Bộ Khoa học và Công nghệ và các cơ quan, đơn vị liên quan",
+      "Với các cơ quan liên quan",
+      "với các bộ, ngành, địa phương rà soát toàn diện, đánh giá",
+      "với Bộ Công an, Bộ Khoa học và",
+      "với Bộ Công an, Bộ Khoa học và Công nghệ"
+    ]
+  }
+]

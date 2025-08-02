@@ -1,0 +1,15 @@
+{
+  "loai_van_ban": "công_điện",
+  "tong_so_van_ban": 2,
+  "tong_so_trang": 5,
+  "tong_so_ky_tu": 10312,
+  "trung_binh_trang_moi_van_ban": 2.5,
+  "trung_binh_ky_tu_moi_van_ban": 5156.0,
+  "co_quan_ban_hanh": {
+    "CHÍNH PHỦ": 2
+  },
+  "phan_bo_theo_nam": {
+    "2025": 1
+  },
+  "ngay_xu_ly": "02/08/2025 19:29:46"
+}

@@ -1,0 +1,16 @@
+{
+  "loai_van_ban": "kế_hoạch",
+  "tong_so_van_ban": 2,
+  "tong_so_trang": 13,
+  "tong_so_ky_tu": 26789,
+  "trung_binh_trang_moi_van_ban": 6.5,
+  "trung_binh_ky_tu_moi_van_ban": 13394.5,
+  "co_quan_ban_hanh": {
+    "Chính phủ": 2
+  },
+  "phan_bo_theo_nam": {
+    "2025": 1,
+    "2022": 1
+  },
+  "ngay_xu_ly": "02/08/2025 19:29:46"
+}

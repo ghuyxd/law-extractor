@@ -1,0 +1,391 @@
+{
+  "tong_so_loai_van_ban": 22,
+  "chi_tiet_theo_loai": {
+    "báo_cáo": {
+      "loai_van_ban": "báo_cáo",
+      "tong_so_van_ban": 1,
+      "tong_so_trang": 209,
+      "tong_so_ky_tu": 333772,
+      "trung_binh_trang_moi_van_ban": 209.0,
+      "trung_binh_ky_tu_moi_van_ban": 333772.0,
+      "co_quan_ban_hanh": {
+        "Chính phủ": 1
+      },
+      "phan_bo_theo_nam": {
+        "2018": 1
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46",
+      "tong_so_dieu": 7,
+      "trung_binh_dieu_moi_van_ban": 7.0,
+      "van_ban_nhieu_dieu_nhat": 7,
+      "van_ban_it_dieu_nhat": 7
+    },
+    "chỉ_thị": {
+      "loai_van_ban": "chỉ_thị",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 22,
+      "tong_so_ky_tu": 57323,
+      "trung_binh_trang_moi_van_ban": 11.0,
+      "trung_binh_ky_tu_moi_van_ban": 28661.5,
+      "co_quan_ban_hanh": {
+        "Chính phủ": 2
+      },
+      "phan_bo_theo_nam": {
+        "2025": 2
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    },
+    "công_văn": {
+      "loai_van_ban": "công_văn",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 3,
+      "tong_so_ky_tu": 5413,
+      "trung_binh_trang_moi_van_ban": 1.5,
+      "trung_binh_ky_tu_moi_van_ban": 2706.5,
+      "co_quan_ban_hanh": {
+        "Chính phủ": 1,
+        "BỘ TÀI CH": 1
+      },
+      "phan_bo_theo_nam": {
+        "2025": 1,
+        "2022": 1
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    },
+    "công_điện": {
+      "loai_van_ban": "công_điện",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 5,
+      "tong_so_ky_tu": 10312,
+      "trung_binh_trang_moi_van_ban": 2.5,
+      "trung_binh_ky_tu_moi_van_ban": 5156.0,
+      "co_quan_ban_hanh": {
+        "CHÍNH PHỦ": 2
+      },
+      "phan_bo_theo_nam": {
+        "2025": 1
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    },
+    "hướng_dẫn": {
+      "loai_van_ban": "hướng_dẫn",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 19,
+      "tong_so_ky_tu": 44896,
+      "trung_binh_trang_moi_van_ban": 9.5,
+      "trung_binh_ky_tu_moi_van_ban": 22448.0,
+      "co_quan_ban_hanh": {
+        "Chính phủ": 1,
+        "CHÍNH PHỦ": 1
+      },
+      "phan_bo_theo_nam": {
+        "2025": 1,
+        "2016": 1
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    },
+    "kết_luận": {
+      "loai_van_ban": "kết_luận",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 5,
+      "tong_so_ky_tu": 8461,
+      "trung_binh_trang_moi_van_ban": 2.5,
+      "trung_binh_ky_tu_moi_van_ban": 4230.5,
+      "co_quan_ban_hanh": {
+        "Chính phủ": 1,
+        "BỘ CH": 1
+      },
+      "phan_bo_theo_nam": {
+        "2025": 2
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    },
+    "kế_hoạch": {
+      "loai_van_ban": "kế_hoạch",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 13,
+      "tong_so_ky_tu": 26789,
+      "trung_binh_trang_moi_van_ban": 6.5,
+      "trung_binh_ky_tu_moi_van_ban": 13394.5,
+      "co_quan_ban_hanh": {
+        "Chính phủ": 2
+      },
+      "phan_bo_theo_nam": {
+        "2025": 1,
+        "2022": 1
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    },
+    "luật": {
+      "loai_van_ban": "luật",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 30,
+      "tong_so_ky_tu": 70839,
+      "trung_binh_trang_moi_van_ban": 15.0,
+      "trung_binh_ky_tu_moi_van_ban": 35419.5,
+      "co_quan_ban_hanh": {
+        "Chính phủ": 1,
+        "Quốc hội": 1
+      },
+      "phan_bo_theo_nam": {
+        "2025": 2
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46",
+      "tong_so_dieu": 15,
+      "trung_binh_dieu_moi_van_ban": 7.5,
+      "van_ban_nhieu_dieu_nhat": 11,
+      "van_ban_it_dieu_nhat": 4
+    },
+    "lệnh": {
+      "loai_van_ban": "lệnh",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 2,
+      "tong_so_ky_tu": 1765,
+      "trung_binh_trang_moi_van_ban": 1.0,
+      "trung_binh_ky_tu_moi_van_ban": 882.5,
+      "co_quan_ban_hanh": {
+        "CHÍNH PHỦ": 2
+      },
+      "phan_bo_theo_nam": {
+        "2025": 2
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    },
+    "nghị_quyết": {
+      "loai_van_ban": "nghị_quyết",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 5,
+      "tong_so_ky_tu": 4877,
+      "trung_binh_trang_moi_van_ban": 2.5,
+      "trung_binh_ky_tu_moi_van_ban": 2438.5,
+      "co_quan_ban_hanh": {
+        "CHÍNH PHỦ": 2
+      },
+      "phan_bo_theo_nam": {
+        "2025": 2
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    },
+    "nghị_định": {
+      "loai_van_ban": "nghị_định",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 29,
+      "tong_so_ky_tu": 52794,
+      "trung_binh_trang_moi_van_ban": 14.5,
+      "trung_binh_ky_tu_moi_van_ban": 26397.0,
+      "co_quan_ban_hanh": {
+        "CHÍNH PHỦ": 2
+      },
+      "phan_bo_theo_nam": {
+        "2025": 2
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46",
+      "tong_so_dieu": 33,
+      "trung_binh_dieu_moi_van_ban": 16.5,
+      "van_ban_nhieu_dieu_nhat": 28,
+      "van_ban_it_dieu_nhat": 5
+    },
+    "pháp_lệnh": {
+      "loai_van_ban": "pháp_lệnh",
+      "tong_so_van_ban": 1,
+      "tong_so_trang": 17,
+      "tong_so_ky_tu": 39119,
+      "trung_binh_trang_moi_van_ban": 17.0,
+      "trung_binh_ky_tu_moi_van_ban": 39119.0,
+      "co_quan_ban_hanh": {
+        "Chính phủ": 1
+      },
+      "phan_bo_theo_nam": {
+        "2025": 1
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46",
+      "tong_so_dieu": 8,
+      "trung_binh_dieu_moi_van_ban": 8.0,
+      "van_ban_nhieu_dieu_nhat": 8,
+      "van_ban_it_dieu_nhat": 8
+    },
+    "phương_án": {
+      "loai_van_ban": "phương_án",
+      "tong_so_van_ban": 1,
+      "tong_so_trang": 25,
+      "tong_so_ky_tu": 52134,
+      "trung_binh_trang_moi_van_ban": 25.0,
+      "trung_binh_ky_tu_moi_van_ban": 52134.0,
+      "co_quan_ban_hanh": {
+        "Chính phủ": 1
+      },
+      "phan_bo_theo_nam": {
+        "2025": 1
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    },
+    "quy_chuẩn_việt_nam": {
+      "loai_van_ban": "quy_chuẩn_việt_nam",
+      "tong_so_van_ban": 1,
+      "tong_so_trang": 53,
+      "tong_so_ky_tu": 88472,
+      "trung_binh_trang_moi_van_ban": 53.0,
+      "trung_binh_ky_tu_moi_van_ban": 88472.0,
+      "co_quan_ban_hanh": {
+        "Bộ Khoa\nh": 1
+      },
+      "phan_bo_theo_nam": {
+        "2018": 1
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    },
+    "quy_chế": {
+      "loai_van_ban": "quy_chế",
+      "tong_so_van_ban": 1,
+      "tong_so_trang": 24,
+      "tong_so_ky_tu": 46971,
+      "trung_binh_trang_moi_van_ban": 24.0,
+      "trung_binh_ky_tu_moi_van_ban": 46971.0,
+      "co_quan_ban_hanh": {
+        "Chính phủ": 1
+      },
+      "phan_bo_theo_nam": {
+        "2025": 1
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    },
+    "quy_định": {
+      "loai_van_ban": "quy_định",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 16,
+      "tong_so_ky_tu": 40283,
+      "trung_binh_trang_moi_van_ban": 8.0,
+      "trung_binh_ky_tu_moi_van_ban": 20141.5,
+      "co_quan_ban_hanh": {
+        "bộ cơ sở\nban ch": 2
+      },
+      "phan_bo_theo_nam": {
+        "2025": 2
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    },
+    "quyết_định": {
+      "loai_van_ban": "quyết_định",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 0,
+      "tong_so_ky_tu": 0,
+      "trung_binh_trang_moi_van_ban": 0.0,
+      "trung_binh_ky_tu_moi_van_ban": 0.0,
+      "co_quan_ban_hanh": {},
+      "phan_bo_theo_nam": {},
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    },
+    "thông_báo": {
+      "loai_van_ban": "thông_báo",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 6,
+      "tong_so_ky_tu": 10395,
+      "trung_binh_trang_moi_van_ban": 3.0,
+      "trung_binh_ky_tu_moi_van_ban": 5197.5,
+      "co_quan_ban_hanh": {
+        "CHÍNH PHỦ": 1,
+        "Chính phủ": 1
+      },
+      "phan_bo_theo_nam": {
+        "2025": 1,
+        "2024": 1
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    },
+    "thông_tư": {
+      "loai_van_ban": "thông_tư",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 74,
+      "tong_so_ky_tu": 112648,
+      "trung_binh_trang_moi_van_ban": 37.0,
+      "trung_binh_ky_tu_moi_van_ban": 56324.0,
+      "co_quan_ban_hanh": {
+        "Chính phủ": 2
+      },
+      "phan_bo_theo_nam": {
+        "2025": 1,
+        "2024": 1
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    },
+    "thông_tư_liên_tịch": {
+      "loai_van_ban": "thông_tư_liên_tịch",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 17,
+      "tong_so_ky_tu": 39615,
+      "trung_binh_trang_moi_van_ban": 8.5,
+      "trung_binh_ky_tu_moi_van_ban": 19807.5,
+      "co_quan_ban_hanh": {
+        "Chính phủ": 2
+      },
+      "phan_bo_theo_nam": {
+        "2025": 2
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46",
+      "tong_so_dieu": 2,
+      "trung_binh_dieu_moi_van_ban": 2.0,
+      "van_ban_nhieu_dieu_nhat": 2,
+      "van_ban_it_dieu_nhat": 2
+    },
+    "văn_bản_hợp_nhất": {
+      "loai_van_ban": "văn_bản_hợp_nhất",
+      "tong_so_van_ban": 2,
+      "tong_so_trang": 26,
+      "tong_so_ky_tu": 52828,
+      "trung_binh_trang_moi_van_ban": 13.0,
+      "trung_binh_ky_tu_moi_van_ban": 26414.0,
+      "co_quan_ban_hanh": {
+        "CHÍNH PHỦ": 1,
+        "Chính phủ": 1
+      },
+      "phan_bo_theo_nam": {
+        "2025": 1,
+        "2015": 1
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46",
+      "tong_so_dieu": 1,
+      "trung_binh_dieu_moi_van_ban": 1.0,
+      "van_ban_nhieu_dieu_nhat": 1,
+      "van_ban_it_dieu_nhat": 1
+    },
+    "đề_án": {
+      "loai_van_ban": "đề_án",
+      "tong_so_van_ban": 1,
+      "tong_so_trang": 17,
+      "tong_so_ky_tu": 37787,
+      "trung_binh_trang_moi_van_ban": 17.0,
+      "trung_binh_ky_tu_moi_van_ban": 37787.0,
+      "co_quan_ban_hanh": {
+        "Chính phủ": 1
+      },
+      "phan_bo_theo_nam": {
+        "2025": 1
+      },
+      "ngay_xu_ly": "02/08/2025 19:29:46"
+    }
+  },
+  "tong_hop_chung": {
+    "tong_van_ban": 38,
+    "tong_trang": 617,
+    "tong_ky_tu": 1137493,
+    "tong_dieu": 66
+  },
+  "thong_ke_co_quan": {
+    "Chính phủ": 19,
+    "BỘ TÀI CH": 1,
+    "CHÍNH PHỦ": 11,
+    "BỘ CH": 1,
+    "Quốc hội": 1,
+    "Bộ Khoa\nh": 1,
+    "bộ cơ sở\nban ch": 2
+  },
+  "thong_ke_nam": {
+    "2018": 2,
+    "2025": 27,
+    "2022": 2,
+    "2016": 1,
+    "2024": 2,
+    "2015": 1
+  },
+  "ngay_tao_bao_cao": "02/08/2025 19:29:46"
+}
