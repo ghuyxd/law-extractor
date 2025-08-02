@@ -1,0 +1,20 @@
+# Cấu hình cho dự án xử lý văn bản pháp luật
+
+# Đường dẫn thư mục
+INPUT_DIR: "pdf-ocr-extractor/spelling_fixed_json"
+OUTPUT_DIR: "output"
+LOG_DIR: "logs"
+
+# Cấu hình xử lý
+ENCODING: "utf-8"
+INDENT: 2
+
+# Cấu hình log
+LOG_LEVEL: "INFO"
+LOG_FORMAT: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+# Pattern regex chung
+COMMON_PATTERNS:
+  so_hieu: "Số:\s*([^\n]+)"
+  ngay_ban_hanh: "ngày\s+(\d{1,2})\s+tháng\s+(\d{1,2})\s+năm\s+(\d{4})"
+  nguoi_ky: "([A-ZÁÀẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÉÈẺẼẸÊẾỀỂỄỆÍÌỈĨỊÓÒỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÚÙỦŨỤƯỨỪỬỮỰÝỲỶỸỴ][a-záàảãạăắằẳẵặâấầẩẫậéèẻẽẹêếềểễệíìỉĩịóòỏõọôốồổỗộơớờởỡợúùủũụưứừửữựýỳỷỹỵ\s]+)$"

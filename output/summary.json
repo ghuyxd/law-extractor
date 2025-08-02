@@ -1,0 +1,332 @@
+{
+  "tong_quan": {
+    "tong_so_van_ban": 37,
+    "so_loai_van_ban": 21,
+    "thong_ke_theo_loai": {
+      "Luật": 2,
+      "Hướng dẫn": 2,
+      "Công văn": 2,
+      "Quy chế": 1,
+      "Quyết định": 2,
+      "Lệnh": 2,
+      "Chỉ thị": 2,
+      "Đề án": 1,
+      "Thông tư": 2,
+      "Thông báo": 2,
+      "Nghị định": 2,
+      "Nghị quyết": 2,
+      "Kết luận": 2,
+      "Pháp lệnh": 1,
+      "Kế hoạch": 2,
+      "Quy chuẩn việt nam": 1,
+      "Thông tư liên tịch": 2,
+      "Công điện": 2,
+      "Văn bản hợp nhất": 2,
+      "Quy định": 2,
+      "Phương án": 1
+    }
+  },
+  "chi_tiet_theo_loai": {
+    "Luật": [
+      {
+        "so_hieu": "97/2025/QH15",
+        "ngay_ban_hanh": "01/07/2025",
+        "trich_yeu": "LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT MAT TRAN TO QUỐC VIỆT NAM\nTOÀN QUỐC, LUẬT CÔNG ĐOÀN, LUẬT THÁNH NIÊN\nVÀ LUẬT THỰC HIỆN DÂN CHÚC Ở CƠ SỞ",
+        "co_quan_ban_hanh": "Chủ tịch Hồ Chí Minh sáng lập, lãnh đạo, Mặt trận Tổ quốc Việt Nam là tổ chức",
+        "nguoi_ky": null
+      },
+      {
+        "so_hieu": "99/2025/QH15",
+        "ngay_ban_hanh": "01/07/2025",
+        "trich_yeu": "LUẬT\nSỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA BỘ LUẬT TỐ TỤNG HÌNH SỰ",
+        "co_quan_ban_hanh": "Chủ tịch nước thì Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao có ý kiến trình Chủ tịch nước về việc xét đơn xin ân giảm. Trường hợp Chủ tịch nước quyết định ân giảm thì Chánh án Tòa án đã xét xử sơ thẩm ra quyết định chuyển hình phạt tử hình thành tù chung thân cho người bị kết án.”. Hết thời hạn 01 năm kể từ ngày nhận được ý kiến của Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao mà Chủ tịch nước không có quyết định ân giảm thì cơ quan có thẩm quyền thông báo ngay về việc không có quyết định ân giảm của Chủ tịch nước để Chánh án Tòa án nhân dân tối cao đã xét xử sơ thẩm thực hiện chức vụ thi hành bản án tử hình theo quy định.",
+        "nguoi_ky": "Viện kiểm sát thực hành quyền công tố và kiểm sát việc tuân theo pháp"
+      }
+    ],
+    "Hướng dẫn": [
+      {
+        "so_hieu": "141 /HD-UBND",
+        "ngay_ban_hanh": "03/07/2025",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": "Bộ trưởng Bộ Khoa học và Công nghệ hướng dẫn chức năng, nhiệm vụ, quyền",
+        "nguoi_ky": null
+      },
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": null,
+        "trich_yeu": null,
+        "co_quan_ban_hanh": null,
+        "nguoi_ky": null
+      }
+    ],
+    "Công văn": [
+      {
+        "so_hieu": "2309/CT-CS, Hà Nội, ngày 23 tháng 10 năm 2025",
+        "ngay_ban_hanh": "23/10/2025",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": null,
+        "nguoi_ky": "Cc"
+      },
+      {
+        "so_hieu": "22/C-TCS Hà Nội, ngày 2 tháng 7 năm 2025",
+        "ngay_ban_hanh": "02/07/2025",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": null,
+        "nguoi_ky": null
+      }
+    ],
+    "Quy chế": [
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": null,
+        "trich_yeu": null,
+        "co_quan_ban_hanh": null,
+        "nguoi_ky": null
+      }
+    ],
+    "Quyết định": [
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": null,
+        "trich_yeu": null,
+        "co_quan_ban_hanh": null,
+        "nguoi_ky": null
+      },
+      {
+        "so_hieu": "61/2023/QD-UBND Hà Nam, ngày 12 tháng 2 năm 2023",
+        "ngay_ban_hanh": "12/02/2023",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": "Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này.",
+        "nguoi_ky": null
+      }
+    ],
+    "Lệnh": [
+      {
+        "so_hieu": "807 + 808/Ngày 24-6-2025",
+        "ngay_ban_hanh": "16/06/2025",
+        "trich_yeu": "Về việc công bố Nghị quyết sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC  \n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+        "nguoi_ky": null
+      },
+      {
+        "so_hieu": "08/2025/L-CTN",
+        "ngay_ban_hanh": "16/06/2025",
+        "trich_yeu": "Về việc công bố Luật",
+        "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+        "nguoi_ky": null
+      }
+    ],
+    "Chỉ thị": [
+      {
+        "so_hieu": "03",
+        "ngay_ban_hanh": "26/06/2025",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": "Thủ tướng Chính phủ về việc xây dựng Kế hoạch phát triển kinh tế - xã hội và Dự toán ngân sách nhà nước năm 2026, Bộ trưởng Bộ Nông nghiệp và Môi trường (NN&MT) yêu cầu Thủ trưởng các đơn vị trực thuộc Bộ, Giám đốc Sở Nông nghiệp và Môi trường các tỉnh, thành phố trực thuộc Trung ương triển khai xây dựng Kế hoạch và Dự toán ngân sách nhà nước năm 2026 của ngành NN&MT bám sát các yêu cầu, nội dung cụ thể như sau:",
+        "nguoi_ky": "Ngành nông nghiệp và môi trường"
+      },
+      {
+        "so_hieu": "CT-UBND",
+        "ngay_ban_hanh": "24/05/2025",
+        "trich_yeu": "Về việc tăng cường các giải pháp cấp bách  \nbảo đảm trật tự, an toàn giao thông đường bộ, đường thủy nội địa và khi triều cường dâng trên địa bàn thành phố Cần Thơ",
+        "co_quan_ban_hanh": "Thủ tướng Chính phủ Trần Hồng Hà tại hội nghị sơ kết công tác bảo đảm trật tự, an toàn giao thông quý I, nhiệm vụ giải pháp quý II năm 2025 tại Thông báo số 259/TB-VPCP ngày 24 tháng 5 năm 2025 của Văn phòng Chính phủ.",
+        "nguoi_ky": "Về việc tăng cường các giải pháp cấp bách"
+      }
+    ],
+    "Đề án": [
+      {
+        "so_hieu": "1/ĐA-UBND, ngày 25 tháng 6 năm 2023",
+        "ngay_ban_hanh": "25/06/2023",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": "Thủ tướng Chính phủ giao bao gồm: tiếp tục giảm 50%",
+        "nguoi_ky": "Nội dung"
+      }
+    ],
+    "Thông tư": [
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": null,
+        "trich_yeu": null,
+        "co_quan_ban_hanh": null,
+        "nguoi_ky": null
+      },
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": null,
+        "trich_yeu": null,
+        "co_quan_ban_hanh": null,
+        "nguoi_ky": null
+      }
+    ],
+    "Thông báo": [
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": null,
+        "trich_yeu": null,
+        "co_quan_ban_hanh": null,
+        "nguoi_ky": null
+      },
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": "29/06/2025",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": "Thủ tướng Thường trực Chính phủ Nguyễn Hòa Bình",
+        "nguoi_ky": null
+      }
+    ],
+    "Nghị định": [
+      {
+        "so_hieu": "198/2025/NĐ-CP, Hà Nội, ngày 08 tháng 7 năm 2025",
+        "ngay_ban_hanh": "08/07/2025",
+        "trich_yeu": "NGHỊ ĐỊNH\nQuy định chi tiết một số điều và biện pháp thi hành Luật Phòng không nhân dân",
+        "co_quan_ban_hanh": "Chủ tịch nước;",
+        "nguoi_ky": "Cư ly"
+      },
+      {
+        "so_hieu": "201/2025/NĐ-CP, Hà Nội, ngày 11 tháng 7 năm 2025",
+        "ngay_ban_hanh": "11/07/2025",
+        "trich_yeu": "Quy định chức năng, nhiệm vụ và quyền hạn của đại học quốc gia",
+        "co_quan_ban_hanh": "Chủ tịch nước;",
+        "nguoi_ky": null
+      }
+    ],
+    "Nghị quyết": [
+      {
+        "so_hieu": "206/NQ-CP",
+        "ngay_ban_hanh": "08/07/2025",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": "THỦ TƯỚNG",
+        "nguoi_ky": null
+      },
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": null,
+        "trich_yeu": null,
+        "co_quan_ban_hanh": null,
+        "nguoi_ky": null
+      }
+    ],
+    "Kết luận": [
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": "27/06/2025",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": "Chủ tịch, Phó chủ tịch Hội đồng nhân dân, trưởng các ban và đại biểu của Hội đồng nhân dân cấp xã; Chủ tịch, Phó chủ tịch, Uỷ viên Uỷ ban nhân dân cấp xã (mới) ở những xã không hợp nhất, sáp nhập.",
+        "nguoi_ky": null
+      },
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": null,
+        "trich_yeu": null,
+        "co_quan_ban_hanh": null,
+        "nguoi_ky": null
+      }
+    ],
+    "Pháp lệnh": [
+      {
+        "so_hieu": "08/2025/UBTVQH15 Độc lập - Tự do - Hạnh phúc",
+        "ngay_ban_hanh": "01/07/2025",
+        "trich_yeu": "Sửa đổi, bổ sung một số điều của Pháp lệnh Thủ tục bắt giữ tàu biển,\nPháp lệnh Thủ tục bắt giữ tàu bay, Pháp lệnh Trình tự, thủ tục Tòa án nhân dân xem xét, quy định việc đưa người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi vào cơ sở cai nghiện bắt buộc, Pháp lệnh Xử phạt vi phạm hành chính đối với hành vi can trở hoạt động tố tụng, Pháp lệnh Trình tự, thủ tục xem xét, quyết định áp dụng các biện pháp xử lý hành chính tại Tòa án nhân dân và Pháp lệnh Chi phí tố tụng.",
+        "co_quan_ban_hanh": "Chủ tịch Ủy ban nhân dân các cấp quy định tại điểm a khoản 1 và các chức danh là người có thẩm quyền thuộc Công an nhân dân, Bộ đội biên phòng, Cảnh sát biển, Hải quan, Lâm nghiệp và Kiểm lâm, Thủy sản và Kiểm ngư quy định tại điểm h khoản 1 Điều 37a của Luật Xử lý vi phạm hành chính đối với hành vi can trở hoạt động tố tụng được thực hiện theo quy định của Chính phủ.",
+        "nguoi_ky": null
+      }
+    ],
+    "Kế hoạch": [
+      {
+        "so_hieu": "3283 /KH-BVHTTDL",
+        "ngay_ban_hanh": "07/07/2025",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": "Bộ trưởng (để báo cáo);",
+        "nguoi_ky": null
+      },
+      {
+        "so_hieu": "3473 /KH-UBND",
+        "ngay_ban_hanh": "04/07/2025",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": "Thủ tướng Chính phủ phê duyệt Kế hoạch hành động giảm phát thải khí mêtan đến năm 2030; Quyết định số 4405/QĐ-BTNMT ngày 31/12/2024 của Bộ Tài nguyên và Môi trường ban hành Kế hoạch giảm nhẹ phát thải khí nhà kính trong lĩnh vực quản lý chất thải đến năm 2030.",
+        "nguoi_ky": "Hỗ trợ quốc tế"
+      }
+    ],
+    "Quy chuẩn việt nam": [
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": "30/06/2025",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": "Bộ trưởng Bộ Công Thương ban hành theo Thông tư số 41/2025/TT-BCT ngày 30 tháng 6 năm 2025. Quy chuẩn này thay thế Quy chuẩn kỹ thuật quốc gia về an toàn điện số QCVN 01:2020/BCT.",
+        "nguoi_ky": "Mẫu số"
+      }
+    ],
+    "Thông tư liên tịch": [
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": "20/06/2025",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": "Chủ tịch nước;",
+        "nguoi_ky": null
+      },
+      {
+        "so_hieu": "05/2025/TTLT-BCA-BQP-Hà Nội, ngày 01 tháng 7 năm 2025",
+        "ngay_ban_hanh": "01/07/2025",
+        "trich_yeu": "truy tố vắng mặt bị can nếu có đủ",
+        "co_quan_ban_hanh": "Chủ tịch nước;",
+        "nguoi_ky": null
+      }
+    ],
+    "Công điện": [
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": null,
+        "trich_yeu": null,
+        "co_quan_ban_hanh": null,
+        "nguoi_ky": null
+      },
+      {
+        "so_hieu": "103/CD-TTg, Hà Nội, ngày 30 tháng 6 năm 2025",
+        "ngay_ban_hanh": "30/06/2025",
+        "trich_yeu": "CÔNG ĐIỆN\nVề việc tăng cường kết nối, chia sẻ dữ liệu giữa các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, bảo đảm thông suốt, hiệu quả, không gián đoạn",
+        "co_quan_ban_hanh": "THỦ TƯỚNG CHÍNH PHỦ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+        "nguoi_ky": null
+      }
+    ],
+    "Văn bản hợp nhất": [
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": null,
+        "trich_yeu": null,
+        "co_quan_ban_hanh": null,
+        "nguoi_ky": null
+      },
+      {
+        "so_hieu": "?/VBHN-BCT, 20 tháng © năm 2025",
+        "ngay_ban_hanh": "04/06/2015",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": "Bộ trưởng Bộ Công Thương quy định về quá cảnh hàng hóa của nước Cộng hòa nhân dân Trung Hoa qua lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam, có hiệu lực kể từ ngày 20 tháng 7 năm 2015, được sửa đổi, bổ sung bởi:",
+        "nguoi_ky": "Mẫu giấy phép quá cảnh hàng hóa"
+      }
+    ],
+    "Quy định": [
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": "27/06/2025",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": null,
+        "nguoi_ky": null
+      },
+      {
+        "so_hieu": null,
+        "ngay_ban_hanh": "27/06/2025",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": null,
+        "nguoi_ky": null
+      }
+    ],
+    "Phương án": [
+      {
+        "so_hieu": "9351 /PA-UBND",
+        "ngay_ban_hanh": "01/07/2025",
+        "trich_yeu": null,
+        "co_quan_ban_hanh": "Thủ tướng Chính phủ phê duyệt Đề án sắp xếp, tổ chức lại ĐVHC các cấp và xây dựng mô hình tổ chức chính quyền địa phương 02 cấp.",
+        "nguoi_ky": "Phó chủ tịch"
+      }
+    ]
+  }
+}
