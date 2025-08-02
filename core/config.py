@@ -13,7 +13,7 @@ def setup_logging():
     return logging.getLogger(__name__)
 
 # Đường dẫn mặc định
-DEFAULT_INPUT_DIR = "input"
+DEFAULT_INPUT_DIR = "pdf-extractor/spelling_fixed_json"
 DEFAULT_OUTPUT_DIR = "result"
 
 # Mapping loại văn bản với extractor tương ứng

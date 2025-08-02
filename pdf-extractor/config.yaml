@@ -1,0 +1,260 @@
+# Ollama Vietnamese Spell Checker Configuration
+# File: config.yaml
+
+# =============================================================================
+# OLLAMA SERVER SETTINGS
+# =============================================================================
+ollama:
+  host: "localhost"
+  port: 11434
+  timeout: 300  # seconds (5 minutes per request)
+  
+# =============================================================================
+# MODEL CONFIGURATION
+# =============================================================================
+model:
+  # Primary model for spell checking
+  name: "qwen2.5"  # Options: llama3.1, qwen2.5, gemma2, phi3, llama3.1:8b
+  
+  # Model parameters
+  temperature: 0.1      # Lower = more consistent, Higher = more creative
+  top_p: 0.9           # Nucleus sampling parameter
+  repeat_penalty: 1.1   # Avoid repetition
+  
+  # Fallback models (sẽ thử theo thứ tự nếu model chính không có)
+  fallback_models:
+    - "llama3.1"
+    - "gemma2" 
+    - "phi3"
+
+# =============================================================================
+# FILE PATHS & DIRECTORIES
+# =============================================================================
+paths:
+  # Input directory containing JSON files to process
+  input_dir: "raw_json_output"
+  
+  # Output directory for corrected JSON files
+  output_dir: "spelling_fixed_json"
+  
+  # Backup directory (optional)
+  backup_dir: "backup_json"
+  
+  # Log files
+  log_dir: "logs"
+  log_file: "spelling_check.log"
+  
+  # Temporary processing directory
+  temp_dir: "temp_processing"
+
+# =============================================================================
+# PROCESSING SETTINGS
+# =============================================================================
+processing:
+  # Maximum concurrent workers (files processed simultaneously)
+  max_workers: 2
+  
+  # Maximum text chunk size (characters)
+  max_chunk_size: 2000
+  
+  # Minimum chunk overlap (characters) để giữ context
+  chunk_overlap: 100
+  
+  # Batch size for processing files
+  batch_size: 5
+  
+  # Sleep between batches (seconds)
+  batch_sleep: 1.0
+  
+  # Sleep between chunks (seconds)
+  chunk_sleep: 0.5
+  
+  # Retry settings
+  max_retries: 3
+  retry_delay: 2.0  # seconds
+
+# =============================================================================
+# TEXT PROCESSING OPTIONS
+# =============================================================================
+text_processing:
+  # Enable smart text splitting
+  smart_splitting: true
+  
+  # Preserve formatting
+  preserve_formatting: true
+  
+  # Clean response from model
+  clean_response: true
+  
+  # Skip files if already processed
+  skip_existing: false
+  
+  # Create backup before processing
+  create_backup: true
+  
+  # Minimum text length to process (skip very short texts)
+  min_text_length: 50
+
+# =============================================================================
+# LOGGING & MONITORING
+# =============================================================================
+logging:
+  # Log level: DEBUG, INFO, WARNING, ERROR
+  level: "INFO"
+  
+  # Log to file
+  log_to_file: true
+  
+  # Log to console
+  log_to_console: true
+  
+  # Show progress bar
+  show_progress: true
+  
+  # Show sample changes
+  show_sample_changes: true
+  
+  # Max sample changes to show
+  max_sample_changes: 3
+  
+  # Log processing time
+  log_timing: true
+
+# =============================================================================
+# PROMPT CUSTOMIZATION
+# =============================================================================
+prompt:
+  # System instruction
+  system_instruction: |
+    Bạn là chuyên gia sửa lỗi chính tả tiếng Việt cho văn bản hành chính Việt Nam.
+    
+  # Main task instruction
+  task_instruction: |
+    NHIỆM VỤ: Sửa TẤT CẢ các lỗi trong văn bản sau:
+    - Lỗi chính tả, dấu thanh điệu
+    - Lỗi viết hoa, viết thường  
+    - Lỗi khoảng trắng, dấu câu
+    - Lỗi từ viết tắt và tên riêng
+    - Lỗi đánh máy thông thường
+    
+  # Response rules
+  response_rules: |
+    QUY TẮC QUAN TRỌNG:
+    1. CHỈ trả lời văn bản đã được sửa
+    2. KHÔNG thêm bất kỳ giải thích, ghi chú nào
+    3. GIỮ NGUYÊN cấu trúc, định dạng, xuống dòng
+    4. GIỮ NGUYÊN ý nghĩa và nội dung
+
+# =============================================================================
+# PERFORMANCE OPTIMIZATION
+# =============================================================================
+performance:
+  # Use GPU if available (for local models)
+  use_gpu: true
+  
+  # Memory optimization
+  optimize_memory: true
+  
+  # Connection pooling
+  connection_pool_size: 10
+  
+  # Request timeout
+  request_timeout: 300
+  
+  # Keep-alive connections
+  keep_alive: true
+
+# =============================================================================
+# OUTPUT FORMATTING
+# =============================================================================
+output:
+  # JSON indentation
+  json_indent: 2
+  
+  # Ensure ASCII False (để hiển thị tiếng Việt đúng)
+  ensure_ascii: false
+  
+  # Sort keys
+  sort_keys: false
+  
+  # Create summary report
+  create_summary: true
+  
+  # Summary file name
+  summary_file: "processing_summary.json"
+
+# =============================================================================
+# SPECIFIC MODELS CONFIGURATION
+# =============================================================================
+models:
+  "qwen2.5":
+    temperature: 0.1
+    top_p: 0.9
+    max_tokens: 4000
+    description: "Best for Vietnamese text processing"
+    
+  "llama3.1":
+    temperature: 0.1
+    top_p: 0.85
+    max_tokens: 4000
+    description: "High quality general purpose model"
+    
+  "gemma2":
+    temperature: 0.15
+    top_p: 0.9
+    max_tokens: 2000
+    description: "Lightweight but effective"
+    
+  "phi3":
+    temperature: 0.2
+    top_p: 0.9
+    max_tokens: 2000
+    description: "Very fast, good for batch processing"
+
+# =============================================================================
+# FILE FILTERS
+# =============================================================================
+filters:
+  # File extensions to process
+  include_extensions:
+    - ".json"
+    
+  # File patterns to exclude
+  exclude_patterns:
+    - "*.tmp"
+    - "*.bak"
+    - "*_processed*"
+    
+  # Directory patterns to exclude
+  exclude_directories:
+    - "temp"
+    - "backup"
+    - "logs"
+    
+  # Minimum file size (bytes)
+  min_file_size: 100
+  
+  # Maximum file size (bytes) - 0 means no limit
+  max_file_size: 0
+
+# =============================================================================
+# ADVANCED SETTINGS
+# =============================================================================
+advanced:
+  # Enable experimental features
+  experimental_features: false
+  
+  # Debug mode
+  debug_mode: false
+  
+  # Validate JSON after processing
+  validate_json: true
+  
+  # Create diff files
+  create_diff: false
+  
+  # Parallel processing within files
+  parallel_chunks: true
+  
+  # Memory limit per worker (MB)
+  memory_limit_per_worker: 512
